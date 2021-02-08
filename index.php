@@ -5,7 +5,7 @@
             Тестовое задание
         </title>
         <meta charset='utf-8'>
-        <link href="css/style.css" rel="stylesheet">
+        <link href="style.css" rel="stylesheet">
     </head>
     <body>
         <?php
@@ -71,6 +71,6 @@
             $connect->CloseConnectDB();
             unset($connect);
         ?>
-        <script src="js/script.js"></script>
+        <script src="script.js"></script>
     </body>
 </html>
